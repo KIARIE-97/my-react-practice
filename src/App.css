@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App{
+  color: aqua;
+  background-color: rgb(75, 73, 73);
+  width: 300px;
+  height: 100px;
+  margin-top: 20px;
+  padding: 30px;
+  border-radius: 20px;
+  transform:;
+}
